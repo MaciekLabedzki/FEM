@@ -1,1 +1,1 @@
-# Finished Elements Method
+# Finite Elements Method
