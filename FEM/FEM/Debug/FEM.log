@@ -1,0 +1,7 @@
+﻿  Grid.cpp
+m:\pobrane\studia\mes\fem\fem\grid.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+m:\pobrane\studia\mes\fem\fem\grid.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+m:\pobrane\studia\mes\fem\fem\grid.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+m:\pobrane\studia\mes\fem\fem\grid.cpp(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FEM.vcxproj -> M:\pobrane\Studia\MES\FEM\Debug\FEM.exe
+  FEM.vcxproj -> M:\pobrane\Studia\MES\FEM\Debug\FEM.pdb (Partial PDB)
